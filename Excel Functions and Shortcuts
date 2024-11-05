@@ -1,0 +1,35 @@
+## EXCEL FUNCTIONS
+
+## Project Overview
+The following are the functions I learnt during my Excel classes:
+- SUM                    
+- AVERAGE
+- COUNT
+- COUNTIF
+- COUNTIFS
+- UPPER
+- LOWER
+- PROPER
+- TRIM
+- PROPER(TRIM)
+- RIGHT
+- LEFT
+- MID
+- FIND
+- CONCATENATE
+- AMPERSAND
+- LOOKUPS
+ 1. VLOOKUP
+ 2. HLOOKUP
+ 3. XLOOKUP
+ 4. INDEX
+ 5. MATCH
+ 6. INDEX AND MATCH
+
+## SHORTCUTS IN EXCEL
+Ctrl A - To bring uo the argument box
+Ctrl E - Flash Fill
+Ctrl L - Sort
+Ctrl O - To hide some selected columns
+Ctrl + Shift 1 - To format table box
+Alt F1 - To convert number/table into a Chart
